@@ -20,7 +20,6 @@ A Flutter recipe browsing app that lets users explore meals by category, view de
 | State management | `flutter_riverpod`, `riverpod` |
 | Typography | `google_fonts` |
 | Image loading | `transparent_image` (fade-in placeholder images) |
-| Linting | `flutter_lints` |
 | Testing | `flutter_test` |
 
 ## Project Structure
